@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_page_menus",
+  "info": {
+    "singularName": "home-page-menu",
+    "pluralName": "home-page-menus",
+    "displayName": "HomePageMenu"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MenuCategoryName": {
+      "type": "string"
+    },
+    "CategoryImage": {
+      "type": "string"
+    },
+    "Logo": {
+      "type": "string"
+    },
+    "Quote": {
+      "type": "string"
+    },
+    "Food": {
+      "displayName": "Food",
+      "type": "component",
+      "repeatable": true,
+      "component": "food.food"
+    }
+  }
+}

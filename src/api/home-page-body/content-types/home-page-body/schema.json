@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_page_bodies",
+  "info": {
+    "singularName": "home-page-body",
+    "pluralName": "home-page-bodies",
+    "displayName": "HomePageBody"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}

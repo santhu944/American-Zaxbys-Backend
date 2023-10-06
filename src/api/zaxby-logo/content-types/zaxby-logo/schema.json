@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "zaxby_logos",
+  "info": {
+    "singularName": "zaxby-logo",
+    "pluralName": "zaxby-logos",
+    "displayName": "ZaxbyLogo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HomePageZaxbysLogo": {
+      "type": "string"
+    }
+  }
+}

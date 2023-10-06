@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "announcments",
+  "info": {
+    "singularName": "announcment",
+    "pluralName": "announcments",
+    "displayName": "Announcment"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Card": {
+      "type": "string"
+    }
+  }
+}

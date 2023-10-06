@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_food_foods",
+  "info": {
+    "displayName": "Food"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Image": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Calories": {
+      "type": "string"
+    }
+  }
+}
